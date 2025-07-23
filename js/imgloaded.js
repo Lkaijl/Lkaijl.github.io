@@ -67,8 +67,8 @@ class ProgressiveLoad {
   };
   
   const config = {
-    smallSrc: 'https://raw.githubusercontent.com/Lkaijl/tupianku/main/img/749411b50a231b98955930881d63ae9d.png', // 小图链接 尽可能配置小于100k的图片
-    largeSrc: 'https://raw.githubusercontent.com/Lkaijl/tupianku/main/img/749411b50a231b98955930881d63ae9d.png', // 大图链接 最终显示的图片
+    smallSrc: '/img/2.png', // 小图链接 尽可能配置小于100k的图片
+    largeSrc: '/img/2.png', // 大图链接 最终显示的图片
     mobileSmallSrc: '/img/sjxt.jpg', // 手机端小图链接 尽可能配置小于100k的图片
     mobileLargeSrc: '/img/sjdt.jpg', // 手机端大图链接 最终显示的图片
     enableRoutes: ['/'],
