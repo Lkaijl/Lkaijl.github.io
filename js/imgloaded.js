@@ -59,8 +59,8 @@
   
     const ldconfig = {
       light: {
-        smallSrc: '../pic/5.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
-        largeSrc: '../pic/5.png', //浅色模式 大图链接 最终显示的图片
+        smallSrc: 'https://raw.githubusercontent.com/Lkaijl/tupianku/main/img/749411b50a231b98955930881d63ae9d.png', //浅色模式 小图链接 尽可能配置小于100k的图片 
+        largeSrc: 'https://raw.githubusercontent.com/Lkaijl/tupianku/main/img/749411b50a231b98955930881d63ae9d.png', //浅色模式 大图链接 最终显示的图片
         mobileSmallSrc: '../pic/5.png', //手机端浅色小图链接 尽可能配置小于100k的图片
         mobileLargeSrc: '../pic/5.png', //手机端浅色大图链接 最终显示的图片
         enableRoutes: ['/'],
